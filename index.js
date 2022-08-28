@@ -1,5 +1,5 @@
 //bpmn filename
-const bpmnFilePath = "decision tree2.bpmn";
+const bpmnFilePath = "Test.bpmn";
 
 //BpmnJS configuration
 const bpmnConfig = {
